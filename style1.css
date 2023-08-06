@@ -1,0 +1,36 @@
+.heading
+{
+    color: blue;
+    margin: auto;
+    text-align: center;
+}
+
+.data1{
+    margin: auto;
+    text-align: center;
+}
+
+
+.data1{
+    border: 1px solid black;
+    margin: auto;
+    height: 400px;
+    width:340px;
+    background: rgb(251, 252, 253);
+}
+
+.data1 input{
+    width: 300px;
+    border-radius: 10px;
+    height: 40px;
+    margin: 10px 5px; 
+}
+
+.data1 button{
+
+    width:290px;
+    margin: 10px;
+    background-color: blue;
+    font-size: 25px;
+    border-radius: 10px;
+}
